@@ -1,7 +1,7 @@
 # ihcux-foca-ai-app
 # FocaAí
 
-## Integrantes da Equipe
+## Aluno
 
 Luis Gustavo Coelho de Melo - RA: 32616684
 
